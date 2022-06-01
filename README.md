@@ -1,5 +1,5 @@
 # NCU-independent-study
 
-![image](https://user-images.githubusercontent.com/48956859/171373537-3cdffc13-627e-407b-b0f1-c9fbc6122e25.png)
+[居家安全智慧地震盒](https://github.com/JSHT/NCU-independent-study/files/8813017/v3.1.pdf)
 
 All codes are made by [JSHT](https://github.com/JSHT)
