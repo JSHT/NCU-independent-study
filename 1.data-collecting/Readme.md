@@ -7,5 +7,5 @@
 ![image](https://user-images.githubusercontent.com/48956859/171374797-a6fd96b3-5f25-43b6-82c7-8fa70ae13400.png)
 ### [Integromat](https://www.youtube.com/watch?v=JjytGtMsePw)
 ![image](https://user-images.githubusercontent.com/48956859/171374872-6fce504e-4c5f-4b22-9720-b98f4827c34b.png)
-## 蒐集資料之地震盒
+## 裝置圖
 ![image](https://user-images.githubusercontent.com/48956859/171375383-c6b4e453-5306-4e7a-a39a-fb9fbc9aa221.png)
