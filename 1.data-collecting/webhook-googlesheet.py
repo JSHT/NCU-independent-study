@@ -1,3 +1,6 @@
+# Dependencies
+# adafruit-circuitpython-adxl34x 1.12.2
+
 import requests
 import datetime
 import time

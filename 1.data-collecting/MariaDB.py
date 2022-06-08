@@ -1,3 +1,7 @@
+# Dependencies
+# MariaDB 1.0.9
+# adafruit-circuitpython-adxl34x 1.12.2
+
 import time
 # using adxl345 to get acceleration data
 import board

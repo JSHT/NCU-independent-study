@@ -1,3 +1,11 @@
+# Dependencies
+# sktime: 0.9.0
+# scikit-learn: 0.24.2
+# numpy: 1.19.3
+# pandas 1.1.5
+# joblib: 1.1.0
+# adafruit-circuitpython-adxl34x 1.12.2
+
 import time
 from math import sqrt
 import board
