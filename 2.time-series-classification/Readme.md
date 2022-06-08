@@ -2,6 +2,7 @@
 ![image](https://user-images.githubusercontent.com/48956859/171381449-ae5706ba-23f3-432e-8069-162e7fba31c4.png)
 
 ## Environment
+- windows 11
 - python: 3.7.9
 
 ## Dependencies
