@@ -4,7 +4,7 @@
 
 https://user-images.githubusercontent.com/48956859/171377427-4ba52247-9342-41c9-8060-48a781bc6f3c.mp4
 
-## PC
+## PC (Train model)
 ### Environment
 - windows 11
 - python: 3.7.9
@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/48956859/171377427-4ba52247-9342-41c9-
 - pandas 1.1.5
 - joblib: 1.1.0
 
-## Raspberry Pi 4B
+## Raspberry Pi 4B (Collect Data & Use model)
 ### Environment
 - Raspberry Pi OS (64-bit)
 - python 3.7.9
