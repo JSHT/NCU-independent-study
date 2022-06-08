@@ -30,4 +30,5 @@ https://user-images.githubusercontent.com/48956859/171377427-4ba52247-9342-41c9-
 - pandas 1.1.5
 - joblib: 1.1.0
 
-
+## Arduino (Wireless communication)
+- RF24 1.4.2
