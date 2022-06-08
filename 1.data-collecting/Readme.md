@@ -8,10 +8,4 @@
 ### [Integromat](https://www.youtube.com/watch?v=JjytGtMsePw)
 ![image](https://user-images.githubusercontent.com/48956859/171374872-6fce504e-4c5f-4b22-9720-b98f4827c34b.png)
 
-## Environment
-- Raspberry Pi OS (64-bit)
-- python 3.7.9
 
-## Dependencies
-- MariaDB 1.0.9
-- adafruit-circuitpython-adxl34x 1.12.2
