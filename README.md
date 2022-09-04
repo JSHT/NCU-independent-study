@@ -4,6 +4,7 @@
 ![image](https://user-images.githubusercontent.com/48956859/171380744-e67d2279-2927-4836-8a68-e06c1cab3017.png)
 
 https://user-images.githubusercontent.com/48956859/171377427-4ba52247-9342-41c9-8060-48a781bc6f3c.mp4
+### [使用手冊](https://docs.google.com/document/d/1X-dZavFqbkBZhDigIwwW-_vxvqvklUTz/edit?usp=sharing&ouid=112128560431558836267&rtpof=true&sd=true)
 
 ## PC (Train model)
 ### Environment
