@@ -1,7 +1,6 @@
 # NCU-independent-study
-## [居家安全智慧地震盒](https://github.com/JSHT/NCU-independent-study/blob/main/%E5%B1%85%E5%AE%B6%E5%AE%89%E5%85%A8%E6%99%BA%E6%85%A7%E5%9C%B0%E9%9C%87%E7%9B%92.pdf)
-### [影片介紹](https://drive.google.com/file/d/1e-aYtdUZI4xY27OeSD0kZDGfrZs2ezZc/view?usp=sharing)
-### [使用手冊](https://docs.google.com/document/d/1X-dZavFqbkBZhDigIwwW-_vxvqvklUTz/edit?usp=sharing&ouid=112128560431558836267&rtpof=true&sd=true)
+## [居家安全智慧地震盒](https://github.com/JSHT/NCU-independent-study/blob/main/%E5%B1%85%E5%AE%B6%E5%AE%89%E5%85%A8%E6%99%BA%E6%85%A7%E5%9C%B0%E9%9C%87%E7%9B%92_%E6%B5%B7%E5%A0%B1.pdf)
+### [書面報告](https://github.com/JSHT/NCU-independent-study/blob/main/%E5%B1%85%E5%AE%B6%E5%AE%89%E5%85%A8%E6%99%BA%E6%85%A7%E5%9C%B0%E9%9C%87%E7%9B%92.pdf)、[影片介紹](https://drive.google.com/file/d/1e-aYtdUZI4xY27OeSD0kZDGfrZs2ezZc/view?usp=sharing)、[使用手冊](https://docs.google.com/document/d/1X-dZavFqbkBZhDigIwwW-_vxvqvklUTz/edit?usp=sharing&ouid=112128560431558836267&rtpof=true&sd=true)
 
 ![image](https://user-images.githubusercontent.com/48956859/171380744-e67d2279-2927-4836-8a68-e06c1cab3017.png)
 
